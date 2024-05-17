@@ -1,0 +1,67 @@
+[
+  {
+    "username": "Sarah Dole",
+    "role": "Front End Engineer @ Microsoft",
+    "bio": "I turn coffee into bugs which are fixed by someone else. Certified Stack Overflow and ChatGPT developer.",
+    "email": "mailto:sarah.dole@example.com",
+    "socialMediaAccounts": {
+      "twitter": "https://twitter.com/sarahdole",
+      "instagram": "https://instagram.com/sarahdole",
+      "github": "https://github.com/sarahdole",
+      "linkedIn": "https://linkedin.com/sarahdole"
+    },
+    "avatar": "./path-to-avatar.png"
+  },
+  {
+    "username": "John Doe",
+    "role": "Backend Developer @ Google",
+    "bio": "Passionate about building scalable backend systems. Coffee enthusiast and open-source contributor.",
+    "email": "mailto:john.doe@example.com",
+    "socialMediaAccounts": {
+      "twitter": "https://twitter.com/johndoe",
+      "instagram": "https://instagram.com/johndoe",
+      "github": "https://github.com/johndoe",
+      "linkedIn": "https://linkedin.com/johndoe"
+    },
+    "avatar": "./path-to-avatar.png"
+  },
+  {
+    "username": "Jane Smith",
+    "role": "Full Stack Developer @ Facebook",
+    "bio": "Combining the best of frontend and backend development to create seamless user experiences. Tech blogger and speaker.",
+    "email": "mailto:jane.smith@example.com",
+    "socialMediaAccounts": {
+      "twitter": "https://twitter.com/janesmith",
+      "instagram": "https://instagram.com/janesmith",
+      "github": "https://github.com/janesmith",
+      "linkedIn": "https://linkedin.com/janesmith"
+    },
+    "avatar": "./path-to-avatar.png"
+  },
+  {
+    "username": "Michael Brown",
+    "role": "DevOps Engineer @ Amazon",
+    "bio": "Ensuring continuous integration and delivery of high-quality software. Automation expert and cloud infrastructure specialist.",
+    "email": "mailto:michael.brown@example.com",
+    "socialMediaAccounts": {
+      "twitter": "https://twitter.com/michaelbrown",
+      "instagram": "https://instagram.com/michaelbrown",
+      "github": "https://github.com/michaelbrown",
+      "linkedIn": "https://linkedin.com/michaelbrown"
+    },
+    "avatar": "./path-to-avatar.png"
+  },
+  {
+    "username": "Emily White",
+    "role": "UI/UX Designer @ Apple",
+    "bio": "Creating intuitive and visually appealing user interfaces. Design thinker and prototyping expert.",
+    "email": "mailto:emily.white@example.com",
+    "socialMediaAccounts": {
+      "twitter": "https://twitter.com/emilywhite",
+      "instagram": "https://instagram.com/emilywhite",
+      "github": "https://github.com/emilywhite",
+      "linkedIn": "https://linkedin.com/emilywhite"
+    },
+    "avatar": "./path-to-avatar.png"
+  }
+]
